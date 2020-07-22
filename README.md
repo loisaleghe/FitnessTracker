@@ -6,3 +6,8 @@ The purpose of this app is to help create work out plans and add exercises to it
 
 ![The screenshot of one of the prompts](./public/img/fitness1.png)
 ![The screenshot of one of the prompts](./public/img/fitness2.png)
+
+# Demo
+
+Click the link below to see deployed app:
+https://secure-stream-85345.herokuapp.com/
